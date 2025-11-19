@@ -1,16 +1,26 @@
-## Hi there 👋
+Hello! My name is John.
+I'm a passionate developer with a diverse background in web development, problem solving, and technology innovation. I value building solutions that are not only engaging, but accessible to as many users as possible.
 
-<!--
-**JohnMHoyt24/JohnMHoyt24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 Developer Experience
 
-Here are some ideas to get you started:
+- **Programming Languages:**  
+  Proficient in Python, JavaScript (Node.js), TypeScript, HTML, and CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frameworks & Tools:**  
+  Experience with React, Git, Vite, and Tailwind.
+
+## 🔭 I’m currently working on ...
+A web app that takes user input and calculates the amount owed on their mortgage loan.
+
+## 👯 I’m looking to collaborate on ...
+Opportunities to use my development skills for non-profit organizations.
+
+## 🤝 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/john-m-hoyt)  
+- [Portfolio Website](https://johnmhoyt24.github.io/accessible-portfolio/) 
+- [Frontend Mentor](https://www.frontendmentor.io/profile/JohnMHoyt24)
+
+---
+
+Thank you for visiting! Feel free to explore my repositories and reach out with any collaboration ideas.
