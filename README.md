@@ -5,10 +5,10 @@ I'm a passionate developer with a diverse background in web development, problem
 ## 🧑‍💻 Developer Experience
 
 - **Programming Languages:**  
-  Proficient in Python, JavaScript (Node.js), TypeScript, HTML, and CSS.
+  Proficient in Python, PHP, JavaScript (Node.js), TypeScript, HTML, and CSS.
 
 - **Frameworks & Tools:**  
-  Experience with React, Git, Vite, and Tailwind.
+  Experience with React, Drupal, Git, Vite, and Tailwind.
 
 ## 🔭 I’m currently working on ...
 A web app that takes user input and calculates the amount owed on their mortgage loan.
