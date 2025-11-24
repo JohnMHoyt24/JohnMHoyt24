@@ -14,7 +14,7 @@ I'm a passionate developer with a diverse background in web development, problem
 A web app that takes user input and calculates the amount owed on their mortgage loan.
 
 ## 👯 I’m looking to collaborate on ...
-Opportunities to use my development skills for non-profit organizations.
+Opportunities to use my development skills to serve the community!
 
 ## 🤝 Connect With Me
 
