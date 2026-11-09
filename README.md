@@ -1,6 +1,6 @@
 ## Welcome! 👋
 
-I'm a passionate developer with a diverse background in web development, problem solving, and technology innovation. I value building solutions that are not only engaging, but accessible to all users.
+I'm a passionate developer with a diverse background in web development, problem solving, and technology innovation. I value building solutions that are not only engaging, but accessible to countless users.
 
 ## 🧑‍💻 Developer Experience
 
