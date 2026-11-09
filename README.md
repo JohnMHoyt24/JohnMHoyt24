@@ -1,19 +1,19 @@
 ## Welcome! 👋
 
-I'm a passionate developer with a diverse background in web development, problem solving, and technology innovation. I value building solutions that are not only engaging, but accessible to as many users as possible.
+I'm a passionate developer with a diverse background in web development, problem solving, and technology innovation. I value building solutions that are not only engaging, but accessible to all users.
 
 ## 🧑‍💻 Developer Experience
 
 - **Programming Languages:**  
-  Proficient in Python, PHP, JavaScript (Node.js), TypeScript, HTML, and CSS.
+  Proficient in Python, JavaScript (Node.js), TypeScript, PHP, and Go.
 
 - **Frameworks & Tools:**  
-  Experience with React, Drupal, Git, Vite, and Tailwind.
+  Experience with React, FastAPI, Drupal, Git, Vite, and Tailwind.
 
 ## 🔭 I’m currently working on ...
-A web app that takes user input and calculates the amount owed on their mortgage loan.
+Melodia, a web-app that recommends users new music with the use of AI via the Gemini API.
 
-## 👯 I’m looking to collaborate on ...
+## 🧩 I’m looking to collaborate on ...
 Opportunities to use my development skills to serve the community!
 
 ## 🤝 Connect With Me
